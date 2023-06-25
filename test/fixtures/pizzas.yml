@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pizza_name: MyString
+  pizza_size: MyString
+  ingredients: MyString
+
+two:
+  pizza_name: MyString
+  pizza_size: MyString
+  ingredients: MyString
